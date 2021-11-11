@@ -1,6 +1,6 @@
 <?php
 
-include_once 'Lesson2Task3.php';
+include_once 'Task3.php';
 
 function mathOperation($arg1, $arg2, $operation) {
     switch ($operation) {
